@@ -13,6 +13,8 @@ MOBILE_PERSONAL_APP is a personal mobile application developed on **Android Stud
 Dưới đây là ảnh chụp giao diện chính của Bài tập 05.
 
 #### RecyclerView Categories
+![UI](./images/app0.png)
+
 ### API và Xử lý ảnh (Retrofit2 + Glide)
 
 Ứng dụng sử dụng kiến trúc RESTful cho giao tiếp mạng, Retrofit2 để gọi API và Glide để tải/hiển thị ảnh với caching, xử lý placeholder và error.
