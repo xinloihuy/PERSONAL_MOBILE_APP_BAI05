@@ -42,23 +42,27 @@ implementation 'com.github.bumptech.glide:glide:4.15.1'
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/xinloihuy/PERSONAL_MOBILE_APP_BAI05
-   ```
-2. Open the project in **Android Studio**.
+```bash
+git clone https://github.com/xinloihuy/PERSONAL_MOBILE_APP_BAI05
+```
+
+2. Open the project in Android Studio.
+
 3. Wait for Gradle to finish building the project.
+
 4. To run the app:
 
-   * **Option 1:** Use the **Android Virtual Device (AVD)** emulator.
-   * **Option 2:** Connect a **real Android device** via USB and enable **USB Debugging**.
-5. Click **Run ▶** in Android Studio to install and launch the app.
+- Option 1: Use the Android Virtual Device (AVD) emulator.
+- Option 2: Connect a real Android device via USB and enable USB Debugging.
+
+5. Click Run ▶ in Android Studio to install and launch the app.
 
 ---
 
 ## Author
 
-**Name: Xín Lợi Huy**
-**Email: [23110231@student.hcmute.edu.vn](mailto:23110231@student.hcmute.edu.vn)**
-**Phone number: 0339969176**
+**Name:** Xín Lợi Huy  
+**Email:** [23110231@student.hcmute.edu.vn](mailto:23110231@student.hcmute.edu.vn)  
+**Phone number:** 0339969176
 
 ---
